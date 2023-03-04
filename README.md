@@ -1,2 +1,2 @@
-# frontend-html-cal-sma
+# frontend-html-calisma
 html ile ornek sayfa olusturma
